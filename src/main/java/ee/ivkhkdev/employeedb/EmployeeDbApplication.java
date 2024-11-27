@@ -2,6 +2,7 @@ package ee.ivkhkdev.employeedb;
 
 import ee.ivkhkdev.employeedb.entity.Employee;
 import ee.ivkhkdev.employeedb.input.Input;
+import ee.ivkhkdev.employeedb.services.AppService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
